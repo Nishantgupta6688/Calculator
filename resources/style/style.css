@@ -95,7 +95,7 @@ header h1{
 }
 
 
-@media only screen and (max-width: 361px) {
+@media only screen and (max-width: 670px) {
 
     section{
         width: 100%;
