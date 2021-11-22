@@ -1,6 +1,4 @@
 console.log("Script connected");
-
-
 var screen = 0;
 var screenText = document.querySelector('#screen-text');
 
